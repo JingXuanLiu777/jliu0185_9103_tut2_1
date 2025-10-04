@@ -26,4 +26,4 @@ Link to example code:
 [Pixel Sorter Example](https://happycoding.io/tutorials/p5js/images/pixel-sorter)
 
 Reference:
-![espp](https://www.behance.net/gallery/86189013/espp/modules/498787497)
+![espp](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e1d5a486189013.5d9237518f0a9.png)
